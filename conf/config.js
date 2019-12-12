@@ -1,0 +1,1 @@
+{"modules": ["ADMIN", "BSTAT", "CCI", "CEM", "CONVENG", "DCS", "DEM", "FJCPRI", "FRI", "GTS", "HAS", "IM_PORT", "LOADER", "LTS", "MCI", "MCTRL", "MIG16", "MOAM", "REM", "SWM", "SYSADAPT", "TAS", "URI", "WTS"], "crendential": ["lyliu", "Nokia400"]}
